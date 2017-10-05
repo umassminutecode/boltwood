@@ -1,2 +1,7 @@
-# boltwood
-The boltwood project website
+# The Boltwood Project
+
+Active: Yes
+Project Lead: Tom Kelleher 
+Team: Boltwood Project
+Stage: Devising 
+
